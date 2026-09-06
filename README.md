@@ -58,7 +58,7 @@ models were evaluated using appropriate performance metrics.
 - Customers with shorter tenure showed higher churn rates.
 -Mostly female customers are showing churned behavior especially having age more than 35
 
-Only include findings that are actually supported by your analysis.
+Only include findings that are actually supported by our analysis.
 
 ## Dataset
 
@@ -80,3 +80,4 @@ Install the required Python libraries:
 numpy
 pandas 
 matplotlib
+Jupiter
